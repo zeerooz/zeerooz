@@ -27,12 +27,29 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,cs,dotnet,python,html,css,tailwind,git,linux,vscode&perline=7" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,cs,dotnet,postgres,python,html,css,tailwind,docker,git,linux&perline=7" alt="Tech stack" />
 </p>
 
 ---
 
 ### 🚀 Featured Projects
+
+#### 🔐 [SecureVault](https://github.com/zeerooz/SecureVault)
+A **zero-knowledge password manager**: everything is encrypted client-side with **AES-256-GCM**, so the server never sees your passwords or your master password.
+
+- 🔑 Client-side encryption, so a database leak exposes only ciphertext
+- 🛡️ Documented threat model covering what an attacker can and can't get
+- ⚙️ **ASP.NET Core 10** API · **React + TypeScript** client · **PostgreSQL**
+
+<p>
+  <img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AES--256--GCM-FE428E?style=flat-square&logo=letsencrypt&logoColor=white" />
+</p>
+
+#### More projects
 
 | Project | Description | Stack |
 |---|---|---|
